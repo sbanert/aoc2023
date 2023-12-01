@@ -1,0 +1,6 @@
+*.~undo-tree~
+Main
+*.hi
+*.o
+*~
+input.txt
